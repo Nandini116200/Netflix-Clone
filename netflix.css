@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-image: url(assets/img/newbg.jpg);
+    background-image: url(./newbg.jpg);
     height: 80vh;
     width: 100%;
     position: relative;
